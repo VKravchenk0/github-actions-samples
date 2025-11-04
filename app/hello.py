@@ -11,8 +11,6 @@ if config.getboolean("features", "feature_1") == True:
 else:
 	message = "Hello, World!"
 
-print('some change')
-
 @app.route("/")
 def hello():
 	return message 
