@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: theviach/hello-gitops
-  newTag: 6ecadb5dc7afc1fabc93d85dbc93a16a59ffc759
+  newTag: 4f4cc0714cb117df587e25595918b501f12946db
